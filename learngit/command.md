@@ -17,4 +17,6 @@ git reset --hard HEAD^   退回上一个版本  ^^上上个版本
 ``` 
 git reflog  查看自己输入过的命令
 git reset --hard xxxx  退回到某个版本
+cat xxx   查看文件
+git diff HEAD -- readme.txt   比较两个版本的文件
 ```
